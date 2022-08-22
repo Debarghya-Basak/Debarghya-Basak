@@ -1,5 +1,5 @@
 
-![header_video](https://user-images.githubusercontent.com/106986982/185969641-dc2f1a19-e65f-4a10-b5ff-0ff5a2736028.gif)
+<img src="https://user-images.githubusercontent.com/106986982/186013654-9201c640-6ac8-4d67-9e0d-c94b0bb6df90.gif?raw=true" height="400" />
 
 <h3>
   
@@ -16,6 +16,13 @@
 
 #### I am Debarghya Basak. I have a great interest in programming.<br>
 ## Follow me on:<br>
+
+<div>
+  <img alt="instagram" src="https://user-images.githubusercontent.com/106986982/186014923-da416ee5-e874-4ec8-ac2c-a345bfb76c77.png" width="50" height="50" />
+  <img alt="facebook" src="https://user-images.githubusercontent.com/106986982/186015217-dfef89d0-1c67-48f3-b130-081b1b667b28.png" width="50" height="50" />
+  <img alt="linkedin" src="https://user-images.githubusercontent.com/106986982/186016112-3da74cd5-b4c7-4aff-94bb-fa22a9db011a.png" width="50" height="50" />
+  <img alt="twitter" src="https://user-images.githubusercontent.com/106986982/186016428-49eed44e-5f01-418f-a3a2-e807394f3910.png" width="50" height="50" />
+</div>
 
 <div>
   <p>
