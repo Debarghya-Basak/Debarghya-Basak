@@ -1,13 +1,14 @@
+<!--
 <picture>
    <source srcset="https://user-images.githubusercontent.com/106986982/186013654-9201c640-6ac8-4d67-9e0d-c94b0bb6df90.gif?raw=true" media="(min-width: 800px)">
    <source srcset="https://user-images.githubusercontent.com/106986982/185974160-f89d38c9-e71b-446b-9bff-2c1c467607bf.gif?raw=true" media="(min-width: 600px)">
    <img src="https://user-images.githubusercontent.com/106986982/186013654-9201c640-6ac8-4d67-9e0d-c94b0bb6df90.gif?raw=true" height="400" />
 
 </picture>
-
-<!--
-<img src="https://user-images.githubusercontent.com/106986982/186013654-9201c640-6ac8-4d67-9e0d-c94b0bb6df90.gif?raw=true" height="400" />
 -->
+
+<img src="https://user-images.githubusercontent.com/106986982/186013654-9201c640-6ac8-4d67-9e0d-c94b0bb6df90.gif?raw=true" height="400" />
+
 
 <h4>
   
