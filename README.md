@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/106986982/186013654-9201c640-6ac8-4d67-9e0d-c94b0bb6df90.gif?raw=true" height=400 />
 
-<h4>
+<h3>
   
   <img align="right" src="https://user-images.githubusercontent.com/106986982/185974160-f89d38c9-e71b-446b-9bff-2c1c467607bf.gif?raw=true" width="200" height="200" />
   
@@ -19,7 +19,7 @@
   ║║&puncsp;&puncsp;&puncsp;&VeryThinSpace;&VeryThinSpace;║║╚══╣╚═╝║╚═╝║╚═╝║╔╗<br>
   ╚╝&puncsp;&puncsp;&puncsp;&VeryThinSpace;&VeryThinSpace;╚╩═══╩═══╩═══╩═══╝╚╝
   -->
-</h4>
+</h3>
 
 #### I am Debarghya Basak. I have a great interest in programming.<br>
 ## Follow me on:<br>
