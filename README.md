@@ -14,6 +14,7 @@
 </h3>
 
 #### I am Debarghya Basak. I have a great interest in programming.<br>
+(Profile not yet completed..)
 ## Follow me on:<br>
 
 <div>
