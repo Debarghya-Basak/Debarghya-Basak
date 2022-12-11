@@ -33,6 +33,9 @@
 > [LNGHItemStickers](https://github.com/Debarghya-Basak/LNGHItemStickers)<br>
 >>APK : LNGHItemStickers.apk(Will be uploaded)<br>
 
+>[PocketBusiness Redesigned](https://github.com/Debarghya-Basak/PocketBusiness-Redesigned)<br>
+>>APK: PocketBusiness.apk(Will be uploaded when project is finished)<br>
+
 #### Web Dev:<br>
 > [Uemhelper](https://github.com/Debarghya-Basak/UEMHelper)<br>
 >>Site link : http://uemhelper.epizy.com/
