@@ -33,19 +33,30 @@
 > [LNGHItemStickers](https://github.com/Debarghya-Basak/LNGHItemStickers)<br>
 >>APK : LNGHItemStickers.apk(Will be uploaded)<br>
 
+> [TicTacToe](https://github.com/Debarghya-Basak/Tic-Tac-Toe)<br>
+>>APK : TicTacToe.apk(Will be uploaded)<br>
+
+> [CurrencyConverter](https://github.com/Debarghya-Basak/Currency-Converter)<br>
+>>APK : CurrencyConverter.apk(Will be uploaded)<br>
+
+> [ImageChanger](https://github.com/Debarghya-Basak/Image-Changer)<br>
+>> APK : ImageChanger.apk(Will be uploaded)<br>
+
 >[PocketBusiness Redesigned](https://github.com/Debarghya-Basak/PocketBusiness-Redesigned)<br>
 >>APK: PocketBusiness.apk(Will be uploaded when project is finished)<br>
+
+#### Unity:<br>
+> [TaxiDriver](https://github.com/Debarghya-Basak/TaxiDriver)<br>
+>>EXE: TaxiDriver.zip(Will be uploaded later)
+
+> [SnowBoarder](https://github.com/Debarghya-Basak/SnowBoarder)<br>
+>>EXE: SnowBoarder.zip(Will be uploaded later)
 
 #### Web Dev:<br>
 > [Uemhelper](https://github.com/Debarghya-Basak/UEMHelper)<br>
 >>Site link : http://uemhelper.epizy.com/
 
-#### Unity:<br>
-> [TaxiDriver](https://github.com/Debarghya-Basak/TaxiDriver)<br>
->> EXE: TaxiDriver.zip(Will be uploaded later)
 
-> [SnowBoarder](https://github.com/Debarghya-Basak/SnowBoarder)<br>
->> EXE: SnowBoarder.zip(Will be uploaded later)
 
 
 
