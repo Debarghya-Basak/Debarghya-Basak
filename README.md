@@ -55,6 +55,9 @@
 > [SnowBoarder](https://github.com/Debarghya-Basak/SnowBoarder)
 >> EXE: SnowBoarder.zip(Will be uploaded)
 
+> [QuizMaster](https://github.com/Debarghya-Basak/Quiz-Master)
+>> EXE: QuizMaster.zip(Will be uploaded)
+
 > [TileVania](https://github.com/Debarghya-Basak/TileVania)
 >> EXE: TileVania.zip(Will be uploaded)
 
