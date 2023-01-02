@@ -14,7 +14,10 @@
 </h3>
 
 # I am Debarghya Basak 👋
-<h3>Passionate about game development.</h3>
+<h3>Very much a Techy 😎 and a software developer 💻 with a passion for creating and collaborating on innovative projects. I am interested in android app dev 📱 and i am also passionate about game dev in unity 🎮. I have experience in programming languages such as Java, C#, Html, Css, javascript, php, mysql, firebase, C. In free time i like to learn about game dev and currently i am trying to create small 2d game dev projects. I am also working on an Android app project, pocketbusiness.
+<br>Interested in teaming up with devs to make projects 🤝. You can always ping me up and we can have a chat about some new projects 📞, can be about games, mobile app, web dev 😄
+
+</h3>
 <br>
 
 ## Follow me on:<br>
