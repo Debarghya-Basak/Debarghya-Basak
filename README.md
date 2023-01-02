@@ -1,8 +1,8 @@
-<img src="https://user-images.githubusercontent.com/106986982/186013654-9201c640-6ac8-4d67-9e0d-c94b0bb6df90.gif?raw=true" height=400 />
+<!-- <img src="https://user-images.githubusercontent.com/106986982/186013654-9201c640-6ac8-4d67-9e0d-c94b0bb6df90.gif?raw=true" height=400 /> -->
 
 <h3>
   
-  <img align="right" src="https://user-images.githubusercontent.com/106986982/185974160-f89d38c9-e71b-446b-9bff-2c1c467607bf.gif?raw=true" width="200" height="200" />
+<!-- <img align="right" src="https://user-images.githubusercontent.com/106986982/185974160-f89d38c9-e71b-446b-9bff-2c1c467607bf.gif?raw=true" width="200" height="200" /> -->
   
 ╔╗─╔╦═══╦╗──╔╗──╔═══╗╔╗<br>
 ║║─║║╔══╣║──║║──║╔═╗║║║<br>
@@ -13,8 +13,10 @@
   
 </h3>
 
-#### I am Debarghya Basak. I have a great interest in programming.<br>
-(Profile not yet completed..)
+# I am Debarghya Basak 👋
+<h3>Passionate about game development.</h3>
+<br>
+
 ## Follow me on:<br>
 
 <div>
@@ -24,6 +26,49 @@
   <a href="https://www.linkedin.com/mwlite/in/debarghya-basak-28b3b41b4/"><img alt="linkedin" src="https://user-images.githubusercontent.com/106986982/186016112-3da74cd5-b4c7-4aff-94bb-fa22a9db011a.png" width="50" height="50" /></a>
   <a href="https://mobile.twitter.com/basak_debarghya/"><img alt="twitter" src="https://user-images.githubusercontent.com/106986982/186016428-49eed44e-5f01-418f-a3a2-e807394f3910.png" width="50" height="50" /></a>
 </div>
+
+<br>
+
+
+## Connect with me:<br>
+
+📫 basakdebarghya01@gmail.com<br>
+📞 +91 8240787009
+
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=debarghya-basak&label=Profile%20views&color=0e75b6&style=flat" alt="debarghya-basak" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debarghya-basak" alt="debarghya-basak" /></a> </p>
+
+</p>
+
+## Languages and Tools:
+
+<p align="left"> 
+  
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+
+</p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debarghya-basak&show_icons=true&locale=en" alt="debarghya-basak" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debarghya-basak&" alt="debarghya-basak" /></p>
+
+<br>
 
 ## My projects:<br>
 #### Android:<br>
