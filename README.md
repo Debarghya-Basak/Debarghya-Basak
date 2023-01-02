@@ -16,8 +16,14 @@
 # I am Debarghya Basak 👋
 
 <h4>
-Very much a Techy 😎 and a software developer 💻 with a passion for creating and collaborating on innovative projects.<br>I am interested in android app dev 📱 and i am also passionate about game dev in unity 🎮.<br>I have experience in programming languages such as Java, C#, Html, Css, javascript, php, mysql, firebase, C.<br>In free time i like to learn about game dev and currently i am trying to create small 2d game dev projects.<br>I am also working on an Android app project, pocketbusiness.
-<br>Interested in teaming up with devs to make projects 🤝. You can always ping me up and we can have a chat about some new projects 📞, can be about games, mobile app, web dev 😄
+A software developer💻. Very much into tech and collaborations to learn about innovative projects😎<br>
+I am mainly interested in Android App Development📱<br>
+Passionate about Game Development in Unity🎮<br>
+I have knowledge about programming languages such as Java, C#, HTML, CSS, JavaScript, PHP, MySQL, Firebase, C 👨‍🎓<br>
+I am currently working on my own Android app project, Pocketbusiness<br>
+In my free time I am trying to create 2D game projects, currently working on TileVania<br><br>
+
+You can always ping me up for interesting collaborations 🤝 on android or game development or we can discuss about new ideas about technologies!😄
 </h4>
 
 <br>
