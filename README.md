@@ -19,7 +19,7 @@
 A software developer💻. Very much into tech and collaborations to learn about innovative projects😎<br>
 I am mainly interested in Android App Development📱<br>
 Passionate about Game Development in Unity🎮<br>
-I have knowledge about programming languages such as Java, C#, HTML, CSS, JavaScript, PHP, MySQL, Firebase, C 👨‍🎓<br>
+I have knowledge about programming languages such as Java, C#, HTML, CSS, JavaScript, PHP, MySQL, C, Firebase 👨‍🎓<br>
 I am currently working on my own Android app project, Pocketbusiness<br>
 In my free time I am trying to create 2D game projects, currently working on TileVania<br><br>
 
