@@ -108,6 +108,12 @@ You can always ping me up for interesting collaborations 🤝 on android or game
 > [PythonIntegrator](https://github.com/Debarghya-Basak/PythonIntegrator)
 >> APK: PythonIntegrator.apk(Will be uploaded)
 
+> [MusicPlayz](https://github.com/Debarghya-Basak/MusicPlayz)
+>> APK: MusicPlays.apk(Will be uploaded)
+
+> [ChatRoom](https://github.com/Debarghya-Basak/ChatRoom)
+>> APK: ChatRoom.apk(Will be uploaded)
+
 
 #### Unity:<br>
 > [TaxiDriver](https://github.com/Debarghya-Basak/TaxiDriver)
