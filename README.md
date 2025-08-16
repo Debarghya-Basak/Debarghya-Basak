@@ -19,12 +19,12 @@
 A software developer💻. Very much into tech and collaborations to learn about innovative projects😎<br>
 I am mainly interested in Android App Development📱and Full Stack Web Development<br>
 Passionate about Game Development in Unity🎮<br>
-I have knowledge about programming languages such as Java, C#, HTML, CSS, JavaScript, ReactJS, ExpressJS, Node, PHP, MySQL, C, Firebase 👨‍🎓<br>
+I have knowledge about programming languages such as Java, C#, HTML, CSS, JavaScript, ReactJS, ExpressJS, Node, PHP, MySQL, C, Firebase 👨‍🎓<br><br>
 Currently coding 
   
 [IndiMC](https://indimc.in)
-<br>
-In my free time I play valorant and minecraft. Ping me if you wanna join<br><br>
+<br><br>
+In my free time I play valorant and minecraft. Ping me if you wanna join.<br><br>
 
 You can always ping me up for interesting collaborations 🤝 on android or web development or we can discuss about new ideas about technologies!😄
 </h4>
