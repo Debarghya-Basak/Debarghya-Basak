@@ -141,4 +141,4 @@ You can always ping me up for interesting collaborations 🤝 on android or web 
 >>Site link : Will be uploaded
 
 > [IndiMC](https://github.com/Debarghya-Basak/IndiMC)
->>Site link : indimc.in
+>>Site link : [IndiMC](https://indimc.in)
